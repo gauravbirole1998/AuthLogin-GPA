@@ -8,6 +8,7 @@ public class AuthLoginApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(AuthLoginApplication.class, args);
+
 	}
 
 }
